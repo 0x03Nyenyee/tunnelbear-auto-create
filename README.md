@@ -17,7 +17,7 @@ Script ini digunakan untuk mendaftarkan akun TunnelBear menggunakan email manual
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/yourusername/tunnelbear-manual-signup.git
-cd tunnelbear-manual-signup
+cd tunnelbear-auto-create
 ```
 
 ### 2. Install Dependencies
