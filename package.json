@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@colors/colors": "^1.6.0",
+    "axios": "^1.8.4",
+    "node-random-name": "^1.0.1",
+    "readline-sync": "^1.4.10"
+  }
+}
